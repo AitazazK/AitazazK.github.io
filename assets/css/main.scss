@@ -41,3 +41,19 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* ================================
+   Footer size override
+   ================================ */
+
+.page__footer {
+  padding-top: 0.4em !important;
+  padding-bottom: 0.4em !important;
+  font-size: 0.75em;
+  line-height: 1.2;
+}
+
+.page__footer-follow,
+.page__footer-copyright {
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+}
