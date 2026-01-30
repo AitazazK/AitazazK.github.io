@@ -1,1 +1,15 @@
+/* Make footer thinner */
+.page__footer {
+  padding-top: 0.4em !important;
+  padding-bottom: 0.4em !important;
+  font-size: 0.75em;
+  line-height: 1.2;
+}
+
+/* Reduce spacing between footer items */
+.page__footer-follow,
+.page__footer-copyright {
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+}
 
